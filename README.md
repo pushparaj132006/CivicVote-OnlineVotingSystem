@@ -1,15 +1,4 @@
-# CivicVote - Interactive Online Voting System 🗳️
-### Full Stack Development (FSD) — Experiment 3: React Hooks & State Management
 
-**Author:** Ishan Katariya  
-**Class:** D15A BATCH-A  
-**Roll No:** 19  
-**Platform:** CivicVote Official Online Voting System  
-
----
-
-## 📌 Project Overview
-**CivicVote** is an interactive online voting application developed using React, Tailwind CSS, and React Hooks. It demonstrates state management across the application using `useState`, `useEffect`, and the `Context API` (`useContext` and custom `useAuth` hook) for secure voter authentication, ballot casting, category filtering, and real-time state updates without prop drilling.
 
 ---
 
